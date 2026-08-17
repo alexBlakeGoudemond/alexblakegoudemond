@@ -8,11 +8,24 @@ occasionally going a little too deep down interesting technical rabbit holes.
 ## 🛠️ What I'm Into
 
 - Software architecture and developer tooling
-- Several Software Languages (including Java, Kotlin, Bash, ...)
-- Developer experiences
+- Several software languages (including Java, Kotlin, Bash, ...)
+- Developer experience
 - Open-source projects
 - The IndieWeb
 - Making little tools to help me out 😄
+
+---
+
+## 📊 GitHub
+
+![GitHub Stars](https://img.shields.io/github/stars/alexBlakeGoudemond?style=flat&label=stars)
+![GitHub Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FalexBlakeGoudemond&query=%24.public_repos&label=repos)
+![GitHub Followers](https://img.shields.io/github/followers/alexBlakeGoudemond?style=flat&label=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=alexBlakeGoudemond&style=flat&label=profile%20views)
+
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexBlakeGoudemond&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexBlakeGoudemond)
 
 ---
 
@@ -20,11 +33,11 @@ occasionally going a little too deep down interesting technical rabbit holes.
 
 I frequently build things! A few things I'm particularly proud of:
 
-| Project                                                                                        | Description                                           |
-|------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| **[chatterbox-webhook-relay](https://github.com/alexBlakeGoudemond/chatterbox-webhook-relay)** | A lightweight, customizable code-review checklist CLI |
-| **[JetBrains Window Accent](https://github.com/alexBlakeGoudemond/jetbrains-window-accent)**   | A JetBrains IDE plugin for customizing window accents |
-| **[IndieWeb Website](https://absurdlygoud.com)**                                               | My IndieWeb site and personal corner of the web       |
+| Project                                                                                        | Description                                                |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| **[chatterbox-webhook-relay](https://github.com/alexBlakeGoudemond/chatterbox-webhook-relay)** | A lightweight webhook relay for development and automation |
+| **[JetBrains Window Accent](https://github.com/alexBlakeGoudemond/jetbrains-window-accent)**   | A JetBrains IDE plugin for customizing window accents      |
+| **[IndieWeb Website](https://absurdlygoud.com)**                                               | My IndieWeb site and personal corner of the web            |
 
 See my [repositories](https://github.com/alexBlakeGoudemond?tab=repositories) for everything else I'm tinkering with.
 
@@ -59,4 +72,19 @@ absurdlygoud.com
         │ content
         ▼
      IndieWeb
+```
 
+My identity is represented using [Microformats](https://microformats.org/), with `h-card` and `rel="me"` relationships
+connecting my domains and online identities.
+
+---
+
+## 🔗 Find Me
+
+- 🌐 [alexblakegoudemond.com](https://alexblakegoudemond.com)
+- 🌐 [absurdlygoud.com](https://absurdlygoud.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/alexander-blake-goudemond-351270126/)
+
+---
+
+> Building things, learning things, and occasionally wondering why I started building the thing.
