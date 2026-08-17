@@ -23,9 +23,7 @@ occasionally going a little too deep down interesting technical rabbit holes.
 ![GitHub Followers](https://img.shields.io/github/followers/alexBlakeGoudemond?style=flat&label=followers)
 ![Profile Views](https://komarev.com/ghpvc/?username=alexBlakeGoudemond&style=flat&label=profile%20views)
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexBlakeGoudemond&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexBlakeGoudemond)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexBlakeGoudemond)
 
 ---
 
