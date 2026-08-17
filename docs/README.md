@@ -50,3 +50,7 @@ alexblakegoudemond.com
 absurdlygoud.com
         │
         └── IndieWeb content
+```
+
+The separation allows `alexblakegoudemond.com` to act as the stable personal identity/authentication domain while
+`absurdlygoud.com` remains the actual IndieWeb site.
