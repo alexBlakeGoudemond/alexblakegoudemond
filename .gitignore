@@ -1,1 +1,4 @@
 /.idea/
+
+# Jekyll generated resources
+/_site/
