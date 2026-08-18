@@ -1,0 +1,30 @@
+_layouts/default.html
+  h_1197a506f6c7d6 1-23
+_config.yml
+  h_1197a506f6c7d6 1-6
+index.md
+  h_1197a506f6c7d6 1-27
+Makefile
+  h_1197a506f6c7d6 1-9
+docker/compose.yaml
+  h_1197a506f6c7d6 1-18
+Gemfile
+  h_1197a506f6c7d6 1-3
+docker/ruby/Dockerfile
+  h_1197a506f6c7d6 1
+.gitignore
+  h_1197a506f6c7d6 2-4
+Gemfile.lock
+  h_1197a506f6c7d6 1-314
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "8c787b4abeca6cbc9a46a2d91554b316315e4edb",
+  "prompts": {},
+  "humans": {
+    "h_1197a506f6c7d6": {
+      "author": "Alex Blake-Goudemond <alexgoudemond@gmail.com>"
+    }
+  }
+}
