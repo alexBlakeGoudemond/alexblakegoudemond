@@ -1,0 +1,16 @@
+_layouts/default.html
+  h_1197a506f6c7d6 18-25
+README.md
+  h_1197a506f6c7d6 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "d5503fff4e8a76948ccd93349329de93fc13398d",
+  "prompts": {},
+  "humans": {
+    "h_1197a506f6c7d6": {
+      "author": "Alex Blake-Goudemond <alexgoudemond@gmail.com>"
+    }
+  }
+}
