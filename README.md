@@ -1,3 +1,8 @@
+---
+layout: default
+title: README
+---
+
 # Hey, I'm Alex 👋
 
 I'm **Alex Blake-Goudemond**, a software engineer who enjoys building things, figuring out how they work, and
